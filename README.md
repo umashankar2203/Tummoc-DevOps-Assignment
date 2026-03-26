@@ -6,9 +6,7 @@ Covers CI/CD, Docker, Infrastructure as Code, and Monitoring.
 ---
 
 ## Live Repository
-https://github.com/umashankar2203/devops-assignment
-
----
+https://github.com/umashankar2203/Tummoc-DevOps-Assignment
 
 ## Project Structure
 ```
